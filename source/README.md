@@ -2,4 +2,8 @@
 
 ⚠ **Application file: app.py**
 
-> Dependencies: requirements.txt
+### Dependencies: requirements.txt
+
+> Programming language: Python
+> Framework: Flask
+> Database: Microsoft Azure
