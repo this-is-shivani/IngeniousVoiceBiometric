@@ -4,6 +4,6 @@
 
 ### Dependencies: requirements.txt
 
-> Programming language: Python
-> Framework: Flask
+> Programming language: Python,
+> Framework: Flask,
 > Database: Microsoft Azure
