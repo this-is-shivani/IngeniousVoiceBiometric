@@ -1,4 +1,4 @@
 # IngeniousVoiceBiometrics
-Voice Biometric solution
+A Voice Biometric solution
 
->Shivani Tyagi & Divya Gupta
+>By: Shivani Tyagi & Divya Gupta
